@@ -1,0 +1,1 @@
+window.calculator = new CalcController; // nova instância ou nova cópia GLOBSL da class CalcController.js 
